@@ -1,0 +1,14 @@
+#root {
+  height: 100vh;
+}
+.App {
+  width: 100vw;
+  text-align: center;
+  height: 100%;
+  font-family: Poppins, sans-serif;
+  height: 100vh;
+}
+
+.icon {
+  width: 25px;
+}
